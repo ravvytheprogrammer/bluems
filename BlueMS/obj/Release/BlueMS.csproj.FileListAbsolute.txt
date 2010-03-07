@@ -1,0 +1,5 @@
+C:\Documents and Settings\Bar\My Documents\Visual Studio 2008\Projects\BlueMS\BlueMS\bin\Release\BlueMS.exe
+C:\Documents and Settings\Bar\My Documents\Visual Studio 2008\Projects\BlueMS\BlueMS\bin\Release\BlueMS.pdb
+C:\Documents and Settings\Bar\My Documents\Visual Studio 2008\Projects\BlueMS\BlueMS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bar\My Documents\Visual Studio 2008\Projects\BlueMS\BlueMS\obj\Release\BlueMS.exe
+C:\Documents and Settings\Bar\My Documents\Visual Studio 2008\Projects\BlueMS\BlueMS\obj\Release\BlueMS.pdb
